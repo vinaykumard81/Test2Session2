@@ -7,20 +7,6 @@
         "version": 2,
         "index": 603
       }
-    ],
-    "p3final.c": [
-      {
-        "id": "b14117c8-91ce-402a-83d5-a3857ee50d2d",
-        "line": 38,
-        "version": 206,
-        "index": 520
-      },
-      {
-        "id": "3b525de1-86a8-4536-893d-88de431686f0",
-        "line": 38,
-        "version": 206,
-        "index": 4104
-      }
     ]
   }
 }
